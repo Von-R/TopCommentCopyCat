@@ -2,9 +2,9 @@ import praw
 import random
 import logging
 
-reddit = praw.Reddit(client_id='K65QOzChAXyjUDz30vWdMw', client_secret='CjOqQgcdyZ4i4LNdNyDSzDEUQw7paw',
-                     password='konichiwa112233', user_agent='Macy_Taylor_',
-                     username='Macy_Taylor_')
+reddit = praw.Reddit(client_id='', client_secret='',
+                     password='', user_agent='',
+                     username='')
 
 
 def find_similar_posts(new_post):
